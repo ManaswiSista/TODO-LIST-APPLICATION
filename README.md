@@ -17,4 +17,15 @@ These instructions will get you a copy of the project up and running on your loc
 - [Material Components for Android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android.
 - [ViewBinding](https://developer.android.com/topic/libraries/view-binding) - Generates a binding class for each XML layout file present in that module and allows you to more easily write code that interacts with views.
 
+ ##  Build and Run Application
+
+Follow this steps to get Working Project!
+```
+1. Clone this repository or download file
+2. Extract zip if downloaded code
+3. Open project in Android Studio
+4. Wait while Android Studio Download gradle or required files
+5. Hit Run Button !
+```
+
 
